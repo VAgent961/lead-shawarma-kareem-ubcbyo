@@ -1,2 +1,9 @@
-# lead-shawarma-kareem-ubcbyo
-Website built by V-Agent Web Development team
+# Shawarma Kareem
+
+Built by the V-Agent Web Development team.
+
+Next.js 14 (App Router) + Tailwind CSS.
+
+```bash
+npm install
+npm run dev
